@@ -241,8 +241,6 @@ body {
 .footer-content .btn {
     grid-column: 2;
     grid-row: 1 / span 2; 
-    
-    /* Tus estilos limpios */
     display: inline-block;
     background-color: transparent;
     color: #f9faf8;
