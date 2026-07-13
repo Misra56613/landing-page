@@ -56,7 +56,7 @@ body {
 
 .hero-container {
     display: flex;
-    justify-content: space-between; /* Alinea texto a la izq e imagen a la der */
+    justify-content: space-between; 
     align-items: center; 
     gap: 40px;
     max-width: 900px;
@@ -78,6 +78,7 @@ body {
 
 /* EL LADO DERECHO (Imagen) */
 .contentimage {
+    
     flex: 1;
     display: flex;
     justify-content: center;
